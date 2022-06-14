@@ -81,6 +81,10 @@ GET https://graph.microsoft.com/beta/policies/deviceRegistrationPolicy
 [!INCLUDE [sample-code](../includes/snippets/go/get-deviceregistrationpolicy-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/get-deviceregistrationpolicy-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

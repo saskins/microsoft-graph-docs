@@ -49,6 +49,8 @@ If successful, this function returns a `200 OK` response code and a [microsoft.g
 
 ### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "ediscoveryreviewtagthis.ashierarchy"
@@ -57,6 +59,12 @@ The following is an example of a request.
 ``` http
 GET https://graph.microsoft.com/beta/security/cases/eDiscoverycases/58399dff-cebe-478f-b1af-d3227f1fd645/tags/asHierarchy
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/ediscoveryreviewtagthisashierarchy-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

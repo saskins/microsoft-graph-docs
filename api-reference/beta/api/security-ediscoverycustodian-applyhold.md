@@ -59,6 +59,8 @@ If successful, this action returns a `202 Accepted` response code.
 ### Example 1. Apply hold to multiple custodians.
 #### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "ediscoverycustodianthis.applyhold"
@@ -74,6 +76,12 @@ Content-Type: application/json
   ]
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/ediscoverycustodianthisapplyhold-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 #### Response
@@ -91,6 +99,8 @@ HTTP/1.1 202 Accepted
 ### Example 2. Apply hold to a single custodian.
 #### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "ediscoverycustodianthis.applyhold"
@@ -99,6 +109,12 @@ The following is an example of a request.
 ``` http
 POST https://graph.microsoft.com/beta/security/cases/eDiscoverycases/b0073e4e-4184-41c6-9eb7-8c8cc3e2288b/custodians/c25c3914f9f743ee9cbaa25377e0cec6/applyHold
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/ediscoverycustodianthisapplyhold-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 #### Response

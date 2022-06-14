@@ -60,6 +60,8 @@ If successful, this method returns a `201 Created`.
 
 ### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_datasource_from_"
@@ -75,6 +77,12 @@ POST https://graph.microsoft.com/beta/security/cases/ediscoveryCases/{ediscovery
     }
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-datasource-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ### Response
 The following is an example of the response

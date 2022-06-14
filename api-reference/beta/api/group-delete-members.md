@@ -93,6 +93,10 @@ DELETE https://graph.microsoft.com/beta/groups/{group-id}/members/{directory-obj
 [!INCLUDE [sample-code](../includes/snippets/go/delete-member-from-group-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-member-from-group-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 In the request, specify the identifier of the group and the identifier of the directory object you want to remove.

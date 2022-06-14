@@ -83,6 +83,10 @@ GET https://graph.microsoft.com/beta/riskyUsers
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-riskyusers-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-riskyusers-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 #### Response
@@ -149,6 +153,10 @@ GET https://graph.microsoft.com/beta/identityProtection/riskyUsers?$filter=riskL
 
 # [PowerShell](#tab/powershell)
 [!INCLUDE [sample-code](../includes/snippets/snippet-unavailable.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-filter-riskyusers-typescript-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
 ---

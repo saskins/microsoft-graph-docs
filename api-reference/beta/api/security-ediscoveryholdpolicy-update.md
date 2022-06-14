@@ -57,6 +57,8 @@ If successful, this method returns a `204 No Content` response code and an updat
 
 ### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "update_ediscoveryholdpolicy"
@@ -70,6 +72,12 @@ PATCH https://graph.microsoft.com/beta/security/cases/eDiscoverycases/b0073e4e-4
     "contentQuery": "bazooka bazooka"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/update-ediscoveryholdpolicy-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

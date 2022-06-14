@@ -58,6 +58,8 @@ If successful, this method returns a `201 Created` response code and a [userSour
 
 ### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_usersource_from_"
@@ -72,6 +74,12 @@ Content-Type: application/json
     "includedSources": "mailbox, site"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-usersource-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

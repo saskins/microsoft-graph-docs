@@ -99,6 +99,10 @@ GET https://graph.microsoft.com/v1.0/auditLogs/signIns
 [!INCLUDE [sample-code](../includes/snippets/powershell/list-signins-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-signins-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

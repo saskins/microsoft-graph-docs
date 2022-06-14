@@ -60,6 +60,8 @@ If successful, this method returns a `201 Created` response code and an [ediscov
 
 ### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_ediscoverycase_from_"
@@ -75,6 +77,12 @@ Content-Type: application/json
     "externalId": "324516"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-ediscoverycase-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

@@ -81,6 +81,10 @@ DELETE https://graph.microsoft.com/beta/policies/featureRolloutPolicies/df85e4d9
 [!INCLUDE [sample-code](../includes/snippets/go/delete-directoryobject-from-featurerolloutpolicy-policies-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-directoryobject-from-featurerolloutpolicy-policies-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

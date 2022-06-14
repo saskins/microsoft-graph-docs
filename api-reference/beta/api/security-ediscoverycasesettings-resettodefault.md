@@ -54,6 +54,8 @@ If successful, this action returns a `200 OK` response code.
 
 ### Request
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "settings_resettodefault"
@@ -63,6 +65,12 @@ If successful, this action returns a `200 OK` response code.
 ``` http
 POST https://graph.microsoft.com/beta/security/cases/eDiscoverycases/b0073e4e-4184-41c6-9eb7-8c8cc3e2288b/settings/resettodefault
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/settings-resettodefault-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 ### Response
 
 >**Note:** The response object shown here might be shortened for readability.

@@ -96,6 +96,10 @@ Content-Type: application/json
 [!INCLUDE [sample-code](../includes/snippets/go/manageddevicethissetcloudpcreviewstatus-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/manageddevicethissetcloudpcreviewstatus-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

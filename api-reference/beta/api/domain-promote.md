@@ -76,6 +76,10 @@ POST https://graph.microsoft.com/beta/domains/contoso.com/promote
 [!INCLUDE [sample-code](../includes/snippets/go/domain-promote-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/domain-promote-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

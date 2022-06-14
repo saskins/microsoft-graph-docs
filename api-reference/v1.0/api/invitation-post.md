@@ -59,6 +59,8 @@ If successful, this method returns `201 Created` response code and [invitation](
 
 The following is an example of the request.
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_invitation_post"
@@ -72,6 +74,12 @@ Content-type: application/json
   "inviteRedirectUrl": "https://myapp.contoso.com"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-invitation-post-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 ### Response

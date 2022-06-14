@@ -58,6 +58,8 @@ If successful, this method returns a `204 NO CONTENT` response code and an updat
 
 ### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "update_ediscoverycase"
@@ -72,6 +74,12 @@ Content-Type: application/json
     "description": "Updated description"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/update-ediscoverycase-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ### Response
 The following is an example of the response

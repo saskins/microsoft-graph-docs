@@ -61,6 +61,8 @@ If successful, this method returns a `201 Created` response code and an [unified
 ### Example 1: Create unifiedGroupSource with group SMTP address
 #### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_unifiedgroupsource_from_"
@@ -77,6 +79,12 @@ Content-Type: application/json
     "includedSources": "mailbox, site"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedgroupsource-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 #### Response
@@ -117,6 +125,8 @@ Content-Type: application/json
 ### Example 2: Create unifiedGroupSource with group@odata.bind
 #### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_unifiedgroupsource_from_"
@@ -131,6 +141,12 @@ Content-Type: application/json
     "includedSources": "mailbox"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-unifiedgroupsource-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 #### Response

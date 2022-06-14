@@ -1,0 +1,21 @@
+---
+description: "Automatically generated file. DO NOT MODIFY"
+---
+
+```typescript
+
+//THIS SNIPPET IS A PREVIEW FOR THE KIOTA BASED SDK. NON-PRODUCTION USE ONLY
+const graphServiceClient = GraphServiceClient.init({authProvider});
+
+const requestBody : $refPostRequestBody = {
+	additionalData : {
+		"@odata.id" : "https://graph.microsoft.com/v1.0/education/classes/11006",
+	},
+};
+
+const result = async () => {
+	await graphServiceClient.education.schoolsById("educationSchool-id").classes.$ref.post(requestBody);
+}
+
+
+```

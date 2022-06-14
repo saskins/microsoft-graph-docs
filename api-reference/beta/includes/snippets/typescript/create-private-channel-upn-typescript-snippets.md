@@ -1,0 +1,35 @@
+---
+description: "Automatically generated file. DO NOT MODIFY"
+---
+
+```typescript
+
+//THIS SNIPPET IS A PREVIEW FOR THE KIOTA BASED SDK. NON-PRODUCTION USE ONLY
+const graphServiceClient = GraphServiceClient.init({authProvider});
+
+const requestBody : Channel = {
+	membershipType : ChannelMembershipType.Private,
+	displayName : "My First Private Channel",
+	description : "This is my first private channels",
+	members : [
+		{
+			roles : [
+				"owner",
+			],
+			additionalData : {
+				"@odata.type" : "#microsoft.graph.aadUserConversationMember",
+				"user@odata.bind" : "https://graph.microsoft.com/beta/users('jacob@contoso.com')",
+			},
+		},
+	],
+	additionalData : {
+		"@odata.type" : "#Microsoft.Graph.channel",
+	},
+};
+
+const result = async () => {
+	await graphServiceClient.teamsById("team-id").channels.post(requestBody);
+}
+
+
+```

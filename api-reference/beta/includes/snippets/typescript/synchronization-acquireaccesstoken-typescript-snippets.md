@@ -1,0 +1,25 @@
+---
+description: "Automatically generated file. DO NOT MODIFY"
+---
+
+```typescript
+
+//THIS SNIPPET IS A PREVIEW FOR THE KIOTA BASED SDK. NON-PRODUCTION USE ONLY
+const graphServiceClient = GraphServiceClient.init({authProvider});
+
+const requestBody : AcquireAccessTokenPostRequestBody = {
+	credentials : [
+		{
+			additionalData : {
+				"@odata.type" : "microsoft.graph.synchronizationSecretKeyStringValuePair",
+			},
+		},
+	],
+};
+
+const result = async () => {
+	await graphServiceClient.applicationsById("application-id").synchronization.acquireAccessToken.post(requestBody);
+}
+
+
+```

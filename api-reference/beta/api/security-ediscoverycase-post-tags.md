@@ -59,6 +59,8 @@ If successful, this method returns a `201 Created` response code and an [ediscov
 ### Create a tag
 #### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_ediscoveryreviewtag_from_"
@@ -73,6 +75,12 @@ POST https://graph.microsoft.com/beta/security/cases/eDiscoverycases/58399dff-ce
     "childSelectability": "Many"
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-ediscoveryreviewtag-from--typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 
 #### Response

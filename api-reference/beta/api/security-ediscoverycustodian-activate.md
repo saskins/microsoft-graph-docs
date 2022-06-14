@@ -50,6 +50,8 @@ If successful, this action returns a `202 Accepted` response code.
 
 ### Request
 The following is an example of a request.
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "ediscoverycustodianthis.activate"
@@ -58,6 +60,12 @@ The following is an example of a request.
 ``` http
 POST https://graph.microsoft.com/beta/security/cases/ediscoveryCases/{ediscoveryCaseId}/custodians/{ediscoveryCustodianId}/activate
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/ediscoverycustodianthisactivate-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 ### Response
 The following is an example of the response
 >**Note:** The response object shown here might be shortened for readability.

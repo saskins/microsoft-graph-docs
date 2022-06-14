@@ -83,6 +83,10 @@ DELETE https://graph.microsoft.com/v1.0/applications/{id}/tokenIssuancePolicies/
 [!INCLUDE [sample-code](../includes/snippets/go/delete-tokenissuancepolicy-from-application-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-tokenissuancepolicy-from-application-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

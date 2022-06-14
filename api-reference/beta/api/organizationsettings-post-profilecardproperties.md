@@ -107,6 +107,10 @@ Content-type: application/json
 [!INCLUDE [sample-code](../includes/snippets/powershell/create-profilecardproperty-from-organizationsettings-powershell-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/create-profilecardproperty-from-organizationsettings-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 
