@@ -10,6 +10,6 @@ $params = @{
 	"@odata.id" = "https://graph.microsoft.com/v1.0/directoryObjects/{id}"
 }
 
-New-MgGroupMemberByRef -GroupId $groupId -BodyParameter $params
+New-MgGroupMemberWithLicenseErrorByRef -GroupId $groupId -BodyParameter $params
 
 ```
