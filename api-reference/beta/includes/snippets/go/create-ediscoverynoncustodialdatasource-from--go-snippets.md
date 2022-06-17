@@ -7,14 +7,14 @@ description: "Automatically generated file. DO NOT MODIFY"
 //THE GO SDK IS IN PREVIEW. NON-PRODUCTION USE ONLY
 graphClient := msgraphsdk.NewGraphServiceClient(requestAdapter)
 
-requestBody := msgraphsdk.NewEdiscoveryNoncustodialDataSource()
-dataSource := msgraphsdk.NewDataSource()
-requestBody.SetDataSource(dataSource)
-dataSource.SetAdditionalData(map[string]interface{}{
-	"@odata.type": "microsoft.graph.security.siteSource",
+requestParameters := &msgraphsdk.NoncustodialDataSourcesRequestBuilderGetQueryParameters{
+	Expand: "dataSource",
+}
+options := &msgraphsdk.NoncustodialDataSourcesRequestBuilderGetRequestConfiguration{
+	QueryParameters: requestParameters,
 }
 ediscoveryCaseId := "ediscoveryCase-id"
-result, err := graphClient.Security().Cases().EdiscoveryCasesById(&ediscoveryCaseId).NoncustodialDataSources().Post(requestBody)
+result, err := graphClient.Security().Cases().EdiscoveryCasesById(&ediscoveryCaseId).NoncustodialDataSources().GetWithRequestConfigurationAndResponseHandler(options, nil)
 
 
 ```

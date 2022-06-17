@@ -68,6 +68,7 @@ The following is an example of a request.
 ``` http
 GET https://graph.microsoft.com/beta/tenantRelationships/managedTenants/myRoles
 ```
+
 # [C#](#tab/csharp)
 [!INCLUDE [sample-code](../includes/snippets/csharp/list-myrole-csharp-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]

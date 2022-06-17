@@ -9,7 +9,7 @@ graphClient := msgraphsdk.NewGraphServiceClient(requestAdapter)
 
 ediscoveryCaseId := "ediscoveryCase-id"
 ediscoverySearchId := "ediscoverySearch-id"
-result, err := graphClient.Security().Cases().EdiscoveryCasesById(&ediscoveryCaseId).SearchesById(&ediscoverySearchId).AdditionalSources().Get()
+result, err := graphClient.Security().Cases().EdiscoveryCasesById(&ediscoveryCaseId).SearchesById(&ediscoverySearchId).NoncustodialSources().Get()
 
 
 ```
