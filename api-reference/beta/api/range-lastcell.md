@@ -1,6 +1,6 @@
 ---
 title: "Range: LastCell"
-description: "."
+description: "Retrieve the last cell within a range."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

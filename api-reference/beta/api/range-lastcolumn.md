@@ -1,6 +1,6 @@
 ---
 title: "Range: LastColumn"
-description: "."
+description: "Retrieve the last column within a range."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
