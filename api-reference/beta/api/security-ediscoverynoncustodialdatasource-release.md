@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryNoncustodialDataSource: release"
-description: "Releases the ediscovery non-custodial data source from the case."
+description: "Describes ediscoveryNoncustodialDataSource: release, which releases the ediscovery non-custodial data source from the case."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

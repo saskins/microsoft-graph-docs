@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryCustodian: release"
-description: "Release an ediscoveryCustodian from a case."
+description: "Describes ediscoveryCustodian: release, which releases an ediscoveryCustodian from a case."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

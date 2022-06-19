@@ -1,6 +1,6 @@
 ---
 title: "Range: BoundingRect"
-description: "Retrieve the smallest range object in given ranges."
+description: "Describes the Range: BoundingRect, which gets the smallest range object in given ranges."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

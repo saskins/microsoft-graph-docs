@@ -1,6 +1,6 @@
 ---
 title: "Range: LastRow"
-description: "Retrieve the last row in a range."
+description: "Describes Range: LastRow, which retrieves the last row in a range."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

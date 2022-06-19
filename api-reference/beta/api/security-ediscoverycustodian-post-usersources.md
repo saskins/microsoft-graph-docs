@@ -1,6 +1,6 @@
 ---
 title: "Create ediscovery custodian userSource"
-description: "Create a new ediscovery custodian userSource object."
+description: "Describes Create ediscovery custodian userSource, which creates a new custodian userSource object."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

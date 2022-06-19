@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryReviewSet: export"
-description: "Initiate an export from a ediscoveryReviewSet."
+description: "Describes ediscoveryReviewSet: export, which initiates an export from an ediscoveryReviewSet."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

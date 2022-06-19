@@ -1,6 +1,6 @@
 ---
 title: "RangeSort: apply"
-description: "Perform a RangeSort operation."
+description: "Describes RangeSort: apply, which performs a RangeSort operation."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

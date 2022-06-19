@@ -1,6 +1,6 @@
 ---
 title: "Add ediscoveryNoncustodialDataSource"
-description: "Add ediscoveryNoncustodialSources by posting to the noncustodialSources collection."
+description: "Describes Add ediscoveryNoncustodialDataSource, which posts to the noncustodialSources collection."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

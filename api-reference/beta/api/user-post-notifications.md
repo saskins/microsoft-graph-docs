@@ -1,6 +1,6 @@
 ---
 title: "Create and send a notification (deprecated)"
-description: "Create and send a notification targeting a user through Microsoft Graph. (deprecated)"
+description: "Describes the Create and send a notification targeting a user through Microsoft Graph. (deprecated)"
 ms.localizationpriority: medium
 ms.prod: "notifications"
 doc_type: apiPageType
