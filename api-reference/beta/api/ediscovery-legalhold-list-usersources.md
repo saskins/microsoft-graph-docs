@@ -1,6 +1,6 @@
 ---
 title: "List legalHold userSources"
-description: "Get the userSource resources from the userSources navigation property."
+description: "Get the legalHold userSource resources associated with a legal hold."
 author: "mahage-msft"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

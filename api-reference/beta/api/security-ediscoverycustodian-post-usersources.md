@@ -1,6 +1,6 @@
 ---
 title: "Create custodian userSource"
-description: "Create a new custodian userSource object."
+description: "Create a new security custodian userSource object."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

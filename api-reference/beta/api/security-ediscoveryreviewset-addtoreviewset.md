@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryReviewSet: addToReviewSet"
-description: "Start the process of adding a collection from Microsoft 365 services to a review set."
+description: "Start the process of adding a collection from Microsoft 365 services to a security review set."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

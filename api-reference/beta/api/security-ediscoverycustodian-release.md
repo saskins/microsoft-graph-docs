@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryCustodian: release"
-description: "Release a custodian from a case."
+description: "Release an ediscoveryCustodian from a case."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

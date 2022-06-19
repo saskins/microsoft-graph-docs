@@ -1,6 +1,6 @@
 ---
 title: "Create custodian siteSource"
-description: "Create a new custodian siteSource object."
+description: "Create a new security custodian siteSource object."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
