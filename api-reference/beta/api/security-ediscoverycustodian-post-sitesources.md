@@ -1,13 +1,13 @@
 ---
-title: "Create custodian siteSource"
-description: "Create a new security custodian siteSource object."
+title: "Create ediscovery custodian siteSource"
+description: "Create a new ediscovery custodian siteSource object."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"
 doc_type: apiPageType
 ---
 
-# Create custodian siteSource
+# Create ediscovery custodian siteSource
 Namespace: microsoft.graph.security
 
 [!INCLUDE [beta-disclaimer](../../includes/beta-disclaimer.md)]
