@@ -1,6 +1,6 @@
 ---
 title: "Create checklistItem"
-description: "Create a new checklistItem object."
+description: "Describes Create checklistItem, which creates a new checklistItem object."
 author: "avijityadav"
 ms.localizationpriority: medium
 ms.prod: "outlook"

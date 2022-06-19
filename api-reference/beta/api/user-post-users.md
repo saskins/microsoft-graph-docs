@@ -1,6 +1,6 @@
 ---
 title: "Create user"
-description: "Create a new user."
+description: "Describes Create user, which creates a new user."
 author: "jpettere"
 ms.localizationpriority: medium
 ms.prod: "users"

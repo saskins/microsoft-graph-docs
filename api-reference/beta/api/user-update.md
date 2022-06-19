@@ -1,6 +1,6 @@
 ---
 title: "Update user"
-description: "Update the properties of a user object."
+description: "Describes Update user, which revises the properties of a user object."
 author: "jpettere"
 ms.localizationpriority: medium
 ms.prod: "users"
