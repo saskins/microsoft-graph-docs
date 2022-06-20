@@ -1,13 +1,13 @@
 ---
-title: "Create table"
-description: "Describes Create table, which uses this API to create a new Table."
+title: "Workbook Create table"
+description: "Describes Workbook Create table, which uses this API to create a new Table."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
 doc_type: apiPageType
 ---
 
-# Create table
+# Workbook Create table
 
 Namespace: microsoft.graph
 

@@ -1,6 +1,6 @@
 ---
 author: JeremyKelley
-title: package
+title: "package resource type"
 description: "Describes a package, which indicates a driveItem is the top-level item in a "package" or a collection of items that should be treated as a collection instead of individual items."
 ms.localizationpriority: medium
 ms.prod: files
