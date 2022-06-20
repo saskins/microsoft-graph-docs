@@ -1,6 +1,6 @@
 ---
 title: "List charts"
-description: "Retrieve a list of chart objects."
+description: "Describes List charts, which retrieve a list of chart objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

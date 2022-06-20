@@ -1,6 +1,6 @@
 ---
 title: "List names"
-description: "Retrieve a list of nameditem objects."
+description: "Describes List names, which retrieves a list of nameditem objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

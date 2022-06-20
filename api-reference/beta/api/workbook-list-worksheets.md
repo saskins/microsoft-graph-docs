@@ -1,6 +1,6 @@
 ---
 title: "List worksheets"
-description: "Retrieve a list of worksheet objects."
+description: "Describes List worksheets, which retrieves a list of worksheet objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
