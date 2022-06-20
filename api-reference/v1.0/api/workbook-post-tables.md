@@ -1,6 +1,6 @@
 ---
 title: "Create table"
-description: "Use this API to create a new Table."
+description: "Describes Create table, which uses this API to create a new Table."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
