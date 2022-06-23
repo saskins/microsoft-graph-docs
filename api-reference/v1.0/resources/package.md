@@ -1,9 +1,9 @@
 ---
 title: "package resource type"
 description: "Describes a package, which indicates a driveItem is the top-level item in a "package" or a collection of items that should be treated as a collection."
-author: JeremyKelley
+author: "JeremyKelley"
 ms.localizationpriority: medium
-ms.prod: files
+ms.prod: "files"
 doc_type: resourcePageType
 ---
 
