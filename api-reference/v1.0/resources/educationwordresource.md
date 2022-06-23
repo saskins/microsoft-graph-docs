@@ -1,6 +1,6 @@
 ---
 title: "educationWordResource resource type"
-description: "A subclass of educationResource."
+description: "Describes the educationWordResource resource type, which is a subclass of educationResource."
 ms.localizationpriority: medium
 author: "mmast-msft"
 ms.prod: "education"

@@ -1,6 +1,6 @@
 ---
 title: "Create table"
-description: "Describes Create table, which uses this API to create a new Table."
+description: "Review the API reference about the Create table method and how the method creates new table objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

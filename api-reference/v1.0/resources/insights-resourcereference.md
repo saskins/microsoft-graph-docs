@@ -1,6 +1,6 @@
 ---
 title: "resourceReference resource type"
-description: "Describes resourceReference resource, which is a complex type containing properties of Insights."
+description: "Describes the resourceReference resource type, which is a complex type containing properties of Insights."
 author: "simonhult"
 ms.localizationpriority: medium
 ms.prod: "insights"

@@ -1,6 +1,6 @@
 ---
 title: "List charts"
-description: "Describes List charts, which retrieves a list of chart objects."
+description: "Review the API reference about the List charts method and how the method retrieves a list of chart objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

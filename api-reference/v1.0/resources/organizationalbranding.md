@@ -1,6 +1,6 @@
 ---
 title: "organizationalBranding resource type"
-description: "Describes the organizationalBranding resource type, which contains details of the organization's branding."
+description: "Describes the organizationalBranding resource type, which contains details about the organization's default branding."
 author: "AlexanderMars"
 ms.localizationpriority: medium
 ms.prod: "identity-and-sign-in"

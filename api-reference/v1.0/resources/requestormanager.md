@@ -1,6 +1,6 @@
 ---
 title: "requestorManager complex type"
-description: "Identifies a relationship to another user in the tenant who will be allowed as approver."
+description: "Describes the requestorManager complex type, which indicates a requesting user's manager to be the approver."
 author: "markwahl-msft"
 ms.localizationpriority: medium
 ms.prod: "governance"

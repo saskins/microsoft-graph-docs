@@ -1,6 +1,6 @@
 ---
 title: "List WorksheetCollection"
-description: "Retrieve a list of worksheet objects."
+description: "Review the API reference about the List WorksheetCollection method and how it retrieves a list of WorksheetCollection objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

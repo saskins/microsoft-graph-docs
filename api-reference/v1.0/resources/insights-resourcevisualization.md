@@ -1,6 +1,6 @@
 ---
 title: "resourceVisualization resource type"
-description: "Complex type containing properties of Insights."
+description: "Describes the resourceVisualization resource type, which is a complex type containing properties of Insights."
 author: "simonhult"
 ms.localizationpriority: medium
 ms.prod: "insights"

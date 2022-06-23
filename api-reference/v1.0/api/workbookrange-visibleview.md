@@ -1,6 +1,6 @@
 ---
 title: "workbookRange: visibleView"
-description: "One of the following permissions is required to call this API. To learn more, including how to choose permissions, see Permissions."
+description: "Review the API reference about workbookRangeView: visibleView, which is one of the following permissions required to call this API."
 ms.localizationpriority: medium
 author: "lumine2008"
 ms.prod: "excel"

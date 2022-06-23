@@ -1,6 +1,6 @@
 ---
 title: "externalSponsors complex type"
-description: "Describes externalSponsors complex type, which identifies a relationship to another user in the tenant who will be allowed as approver."
+description: "Describes the externalSponsors complex type, which identifies a relationship to another user in the tenant who will be allowed as approver."
 author: "markwahl-msft"
 ms.localizationpriority: medium
 ms.prod: "governance"

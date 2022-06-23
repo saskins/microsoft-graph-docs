@@ -1,6 +1,6 @@
 ---
 title: "educationPowerPointResource resource type"
-description: "Describes educationPowerPointResource, which is a subclass of educationResource."
+description: "Describes the educationPowerPointResource resource type, which is a subclass of educationResource."
 ms.localizationpriority: medium
 author: "mmast-msft"
 ms.prod: "education"

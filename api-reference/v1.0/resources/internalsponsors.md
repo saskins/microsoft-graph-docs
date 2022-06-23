@@ -1,6 +1,6 @@
 ---
 title: "internalSponsors complex type"
-description: "Describes internalSponsors complex type, which identifies a relationship to another user in the tenant who will be allowed as approver."
+description: "Describes the internalSponsors complex type, which identifies a relationship to another user in the tenant who will be allowed as approver."
 author: "markwahl-msft"
 ms.localizationpriority: medium
 ms.prod: "governance"

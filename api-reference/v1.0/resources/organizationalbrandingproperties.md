@@ -1,6 +1,6 @@
 ---
 title: "organizationalBrandingProperties resource type"
-description: "Contains details of the organization's branding."
+description: "Describes the organizationalBrandingProperties resource type, which exposes properties for configuring an organization's branding."
 author: "AlexanderMars"
 ms.localizationpriority: medium
 ms.prod: "identity-and-sign-in"

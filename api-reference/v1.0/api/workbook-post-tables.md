@@ -1,6 +1,6 @@
 ---
 title: "Workbook Create table"
-description: "Describes Workbook Create table, which uses this API to create a new Table."
+description: "Review the API reference about the Workbook Create table method and how it posts a new Workbook table object."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

@@ -1,6 +1,6 @@
 ---
 title: "List worksheets"
-description: "Describes List worksheets, which retrieves a list of worksheet objects."
+description: "Review the API reference about the List worksheets method and how it retrieves a list of worksheet objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
