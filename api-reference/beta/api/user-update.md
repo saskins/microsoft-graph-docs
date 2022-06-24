@@ -357,7 +357,7 @@ You can update or assign a value to a single property or all properties in the e
 #### Request
 
 
-# [HTTP](#tab/http)
+# [C#](#tab/csharp)
 <!-- {
   "blockType": "request",
   "name": "update_schemaextension"
