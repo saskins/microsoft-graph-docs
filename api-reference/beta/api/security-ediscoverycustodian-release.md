@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryCustodian: release"
-description: "Describes ediscoveryCustodian: release, which releases an ediscoveryCustodian from a case."
+description: "Review the API reference about the ediscoveryCustodian: release method, which releases a custodian from a case."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

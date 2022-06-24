@@ -1,6 +1,6 @@
 ---
 title: "TableSort: apply"
-description: "Describes TableSort: apply, which performs a TableSort operation."
+description: "Review the API reference concerning the TableSort: apply method, which implements a sorting operation."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

@@ -1,6 +1,6 @@
 ---
 title: "Range: Column"
-description: "Describes Range: Column and retrieves a column contained in the range."
+description: "Review the API reference about the Range: Column method, which gets a column contained in the range."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

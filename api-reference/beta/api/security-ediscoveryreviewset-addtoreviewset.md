@@ -1,6 +1,6 @@
 ---
 title: "ediscoveryReviewSet: addToReviewSet"
-description: "Describes ediscoveryReviewSet: addToReviewSet, which starts the process of adding a collection from Microsoft 365 services to a security review set."
+description: "Review the API reference about the ediscoveryReviewSet: addToReviewSet method, which starts adding a collection from Microsoft 365 services to a review set."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

@@ -1,6 +1,6 @@
 ---
 title: "Create ediscovery custodian userSource"
-description: "Describes Create ediscovery custodian userSource, which creates a new custodian userSource object."
+description: "Review the API reference about the Create ediscovery custodian userSource method, which creates a new userSource object."
 author: "SeunginLyu"
 ms.localizationpriority: medium
 ms.prod: "ediscovery"

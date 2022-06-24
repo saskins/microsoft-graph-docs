@@ -1,6 +1,6 @@
 ---
 title: "Update user"
-description: "Describes Update user, which revises the properties of a user object."
+description: "Review the API reference about the Update user method, which updates the properties of a user object."
 author: "jpettere"
 ms.localizationpriority: medium
 ms.prod: "users"
